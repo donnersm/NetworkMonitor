@@ -1,5 +1,5 @@
 {
-  "name": "LegoAnalyzer",
+  "name": "Element 14 Netwerk monitor",
   "builds": [
     {
       "chipFamily": "ESP32",
